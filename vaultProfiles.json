@@ -1374,7 +1374,7 @@
     },
     "credentials": {
       "user": "veeva.idetailingcreatives@bi-vault.com",
-      "subDomain": "https://bi.veevavault.com",
+      "subDomain": "bi.veevavault.com",
       "apiVersion": "v22.3"
     }
   },
